@@ -1,0 +1,30 @@
+	body {
+		margin: 0;
+		box-sizing: border-box;
+		font-family: arial;
+	}
+	.header {
+		height: 150px;
+		background-color: green;
+		text-transform: uppercase;
+		text-align: center;
+		font-size: 2em;
+		color: white;
+		padding-top: 5px;
+	}
+	.img-responsive {
+		max-width: 100%;
+
+	}
+	.col {
+		float: left;
+		width: 33%;
+	}
+	.container {
+		max-width: 1170px;
+		margin: auto;
+	}
+	.row {
+		clear: both;
+	}
+
